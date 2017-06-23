@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appliances>
+	<appliance id="1001">
+		<power>100</power>
+		<capacity>2</capacity>
+		<material>steel</material>
+		<water_level_indicator>Yes</water_level_indicator>
+		<temperature_control>Yes</temperature_control>
+	</appliance>
+	<appliance id="2001">
+		<power>110</power>
+		<capacity>3</capacity>
+		<material>Aluminium</material>
+		<water_level_indicator>Yes</water_level_indicator>
+		<temperature_control>No</temperature_control>
+	</appliance>
+	<appliance id="3001">
+		<power>150</power>
+		<capacity>1</capacity>
+		<material>Steel</material>
+		<water_level_indicator>No</water_level_indicator>
+		<temperature_control>Yes</temperature_control>
+	</appliance>
+	<appliance id="4001">
+		<power>150</power>
+		<capacity>2</capacity>
+		<material>Steel</material>
+		<water_level_indicator>Yes</water_level_indicator>
+		<temperature_control>Yes</temperature_control>
+	</appliance>
+</appliances>
